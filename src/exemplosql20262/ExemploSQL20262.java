@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package exemplosql20262;
+
+import exemplosql20262.boundary.TelaCadastro;
+
+/**
+ *
+ * @author lecol
+ */
+
+public class ExemploSQL20262 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        TelaCadastro telaCadastro = new TelaCadastro();
+        telaCadastro.setVisible(true);
+    }
+    
+}
